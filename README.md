@@ -18,4 +18,5 @@ $ bin/activator run
 	* activator [https://www.lightbend.com/community/core-tools/activator-and-sbt](https://www.lightbend.com/community/core-tools/activator-and-sbt)
 	* sbt [scala-sbt.org](scala-sbt.org)
 	* scala [http://scala-lang.org/](http://scala-lang.org/)
-    * guice [https://github.com/google/guice.git](https://github.com/google/guice) 
+    * guice [https://github.com/google/guice.git](https://github.com/google/guice)
+	* scalatest [http://www.scalatest.org]([http://www.scalatest.org) a powerful scala test framework

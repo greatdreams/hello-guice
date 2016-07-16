@@ -20,7 +20,7 @@ libraryDependencies ++= Seq(
   "org.apache.logging.log4j"% "log4j-api" % log4jVersion,
   "org.apache.logging.log4j" % "log4j-core" % log4jVersion,
 
-  "org.scalatest" %% "scalatest" % "2.2.4" % "test"
+  "org.scalatest" %% "scalatest" % "2.2.6" % "test"
 )
 
 // Uncomment to use Akka
